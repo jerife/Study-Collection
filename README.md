@@ -16,3 +16,7 @@
 > - [Front end](https://github.com/jerife/Study_Collection/tree/main/Study_Frontend)
 > - Back end [Not yet]
 > ##### I am studying to build basic knowledge of web development.
+
+### Computer language 💻
+> - [Python](https://github.com/jerife/Study_Collection/tree/main/Study_Python)
+> ##### I record the contents of my study using computer language and my work using computer language.
