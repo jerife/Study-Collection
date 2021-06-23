@@ -8,13 +8,14 @@
 
 
 ### Data Base 📂 
-> - My SQL [Not yet]
+> - My SQL
+> - MongoDB
 > ##### I'm studying because I think SQL skills are important to get the data I need from the database. 
 
 
 ### Web 📄
-> - [Front end](https://github.com/jerife/Study_Collection/tree/main/Study_Frontend)
-> - Back end [Not yet]
+> - Front end [html, css, javascript]
+> - Back end [Flask]
 > ##### I am studying to build basic knowledge of web development.
 
 ### Computer language 💻
