@@ -6,14 +6,7 @@
 > - Deep Learning Study Records
 > > > - [Computer Vision](https://github.com/jerife/Study_Collection/tree/main/Study_Computer%20Vision)
 > > > - [Natural Language Process](https://github.com/jerife/Study_Collection/tree/main/Study_Natural%20Language%20Process)
-> ##### Why do I separate "Machine Learning" and "Deep Learning. => "Machine Learning" obviously belong to "Deep Learning". But "Deep Learning" are as important as "Machine Learning", so I separated them :>
-
-
-### Data Base 📂 
-> - My SQL
-> - MongoDB
-> ##### I'm studying because I think SQL skills are important to get the data I need from the database. 
-
+> ##### Why do I separate "Machine Learning" and "Deep Learning. => "Machine Learning" obviously belong to "Deep Learning". But "Deep Learning" are as important as "Machine Learning", so I separated them :> 
 
 ### Web 📄
 > - Front end [html, css, javascript]
