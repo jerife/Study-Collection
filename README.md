@@ -1,4 +1,4 @@
-# Study_Collection
+# Study-Collection
 ## This repository is commited to record studies(ex ML, DL, SQL, etc).
 
 ### Artificial intelligence (AI) 🤖
